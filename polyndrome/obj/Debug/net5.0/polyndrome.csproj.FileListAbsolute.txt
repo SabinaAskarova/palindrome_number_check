@@ -1,0 +1,16 @@
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\polyndrome.exe
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\polyndrome.deps.json
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\polyndrome.runtimeconfig.json
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\polyndrome.runtimeconfig.dev.json
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\polyndrome.dll
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\ref\polyndrome.dll
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\bin\Debug\net5.0\polyndrome.pdb
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.AssemblyInfo.cs
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.dll
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\ref\polyndrome.dll
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.pdb
+C:\Users\acer\Documents\C#\polyndrome\polyndrome\obj\Debug\net5.0\polyndrome.genruntimeconfig.cache
